@@ -1,3 +1,117 @@
+/* Style Elements */
+h1 {
+    font-size: 3.5rem;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#pink
+{
+    color: #E60073;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#grey {
+    color: #4C5B72;
+}
+
+h3 {
+    font-size: 40pt;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h4 {
+    font-size: 2rem;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h5 {
+    font-size: 28pt;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h6 {
+    font-size: 20pt;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+p {
+    font-size: 14pt;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Proxima Nova Fonts 
+
+
+Proxima Nova Bold
+font-family: proxima-nova, sans-serif;
+font-weight: 700;
+font-style: normal;
+
+
+Proxima Nova Bold Italic
+font-family: proxima-nova, sans-serif;
+font-weight: 700;
+font-style: italic;
+
+
+
+Proxima Nova Semibold
+font-family: proxima-nova, sans-serif;
+font-weight: 600;
+font-style: normal;
+
+
+Proxima Nova Semibold Italic
+font-family: proxima-nova, sans-serif;
+font-weight: 600;
+font-style: italic;
+
+
+Proxima Nova Regular
+font-family: proxima-nova, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+
+Proxima Nova Italic
+font-family: proxima-nova, sans-serif;
+font-weight: 400;
+font-style: italic;
+
+
+Proxima Nova Medium
+font-family: proxima-nova, sans-serif;
+font-weight: 500;
+font-style: normal;
+
+
+Proxima Nova Medium Italic
+font-family: proxima-nova, sans-serif;
+font-weight: 500;
+font-style: italic;
+
+
+*/
+
 /* Navigation Bar CSS */
 
 /* line elements in navigaiton bar next to eachother*/
