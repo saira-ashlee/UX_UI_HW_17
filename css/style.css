@@ -1,16 +1,54 @@
 /* Navigation Bar CSS */
 
+/* line elements in navigaiton bar next to eachother*/
 .inline-block {
     display: inline-block;
     vertical-align: top;
 }
 
-/* NOT USING THIS CODE
-nav {
-display: inline-block;
-margin-top: 50px;
 
+div.logo {
+    width: 23%;
+    padding: 1%;
+    /* ^^ Align divs to fill the width of container*/
+    text-align: center;
 }
+
+/* Align nav to fill the width of container*/
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+
+ul{
+    width: 50%;
+    margin-left: auto;
+    /* ^^ Align ul in its container to the right*/
+    list-style: none; /* remove bullets */
+}
+
+/* Hero Section CSS*/
+
+.heroContentRow {
+    display: flex;
+}
+
+.column {
+    flex:50%;
+    padding: 20px;
+}
+
+
+
+
+
+/* NOT USING THIS CODE
+
+nav {
+    display: inline-block;
+    margin-top: 50px;
+    }
 
 .logo {
     width: 25%;
