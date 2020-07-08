@@ -8,10 +8,10 @@
 
 nav li {
     display: inline-block;
+    text-align: left;
 }
 
 div.logo {
-    width: 23%;
     padding: 1%;
     /* ^^ Align divs to fill the width of container*/
     text-align: center;
@@ -19,7 +19,7 @@ div.logo {
 
 /* Align nav to fill the width of container*/
 nav {
-    width: 73%;
+    width: 70%;
     padding: 1%;
 }
 
