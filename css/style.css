@@ -41,10 +41,10 @@ margin-top: 50px;
 
 footer {
     text-align: center;
-    align-items: center;
     padding-top: 2%;
     padding-bottom: 2%;
 }
+
 
 .socialIcons {
     display: inline-block;
@@ -56,9 +56,6 @@ footer {
     float: left;
 }
 
-.footerContainer {
-    align-items: center;
-}
 
 
 
