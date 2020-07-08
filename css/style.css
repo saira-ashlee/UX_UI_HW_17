@@ -6,6 +6,9 @@
     vertical-align: top;
 }
 
+nav li {
+    display: inline-block;
+}
 
 div.logo {
     width: 23%;
@@ -39,6 +42,11 @@ ul{
     padding: 20px;
 }
 
+/*@media screen and (max-width:600px) {
+    .column {
+        width: 100%;
+    }
+}*/
 
 
 
